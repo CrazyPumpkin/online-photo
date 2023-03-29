@@ -1,2 +1,2 @@
 # online-photo
-online phot printing 
+online photo printing 
